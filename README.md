@@ -73,10 +73,6 @@
   - A stats website for Minecraft servers, version 2.0 of my older mc-stats site, with a reworked backend on Postgres
   - Supports multiple servers: anyone can connect their own server through a small, lightweight Minecraft plugin
   - My main project right now
-- [TraiNex Redesign](https://github.com/faolan-exe/trainex-plugin) (JavaScript) `HIGH`
-  - A browser extension (Firefox + Chrome, Manifest V3) that redesigns my university's TraiNex portal
-  - New navigation, a card-based start page and one consistent theme for all subpages
-  - Actively worked on, because I have to look at that portal every day
 - [Protostore](https://github.com/faolan-exe/protostore) (HTML) `MID`
   - The website for my shop project protostore.eu
   - Grows alongside the shop itself
@@ -84,12 +80,10 @@
   - A modular Flask library for user login, access control via decorator and an admin UI
   - Still in development, many features are not fully implemented yet
   - I pick it up again whenever one of my Flask projects needs it
-- [EspSmartHome](https://github.com/faolan-exe/EspSmartHome) (C++) `LOW`
-  - Smart home experiments on ESP microcontrollers
-  - Paused, might get revived with a custom PCB
+
 - [Hoffest-Planung](https://github.com/faolan-exe/hoffest_planung) (Python, HTML) `DONE`
   - A web app for stand registration and the duty roster of a school festival
-  - Flask + PostgreSQL, deployed with Docker Compose
+  - Flask + PostgreSQL, deployed with Docker Compose on my proxmox node
 - [colorlogx](https://github.com/faolan-exe/colorlogx) (Python) `DONE`
   - A small logging helper with colored console output and daily rotating log files
 - [messageBoxLib](https://github.com/faolan-exe/messageBoxLib) (JavaScript) `DONE`
