@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MCConnect](https://github.com/faolan-exe/MCConnect) and [TraiNex Redesign](https://github.com/faolan-exe/trainex-plugin)
 
-- 🌱 I’m currently learning **backend development with TypeScript and SQLAlchemy**
+- 🌱 I’m currently learning **backend development with TypeScript; SQLAlchemy; noSQL**
 
 - 🎯 I want to learn **PHP, Swift and Redis**
 
