@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faolan-exe" alt="faolan-exe" /></a> </p>
 
-- 🔭 I’m currently working on [MCConnect](https://github.com/faolan-exe/MCConnect), my [Name-Badge PCB](https://wiki.t-auer.com/en/pcb-design/ef-badge/rev1-1_write_up) Project, a custom linktree and managing my proxmox node which has some serviceses crashing from time to time...
+- 🔭 I’m currently working on [MCConnect](https://github.com/faolan-exe/MCConnect), my [Name-Badge PCB](https://wiki.t-auer.com/en/pcb-design/ef-badge/rev1-1_write_up) Project, a custom linktree and managing my proxmox node which has some services crashing from time to time...
 - 🌱 I’m currently learning **backend development with TypeScript; SQLAlchemy**
 
 - 🎯 I want to learn **PHP, Swift, noSQL and Redis**
