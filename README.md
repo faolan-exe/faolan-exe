@@ -1,30 +1,128 @@
 <h1 align="center">Hi 👋, I'm Faolan</h1>
-<h3 align="center">A passionate developer from germany who has too many projects.</h3>
+<h3 align="center">A passionate developer from Germany who has too many projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faolan-exe&label=Profile%20views&color=0e75b6&style=flat" alt="faolan-exe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faolan-exe" alt="faolan-exe" /></a> </p>
 
-- 🔭 I’m currently working on [MC-Connect](https://github.com/faolan-exe/MCConnect)
+- 🔭 I’m currently working on [MCConnect](https://github.com/faolan-exe/MCConnect) and [TraiNex Redesign](https://github.com/faolan-exe/trainex-plugin)
 
-- 🌱 I’m currently learning **backend development with TypeScript, sqalchemy**
+- 🌱 I’m currently learning **backend development with TypeScript and SQLAlchemy**
 
-- I want to learn [php, swift, redis](php, swift, redis)
+- 🎯 I want to learn **PHP, Swift and Redis**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **github@tobisit.de**
+- 📫 How to reach me: **github@tobisit.de**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Languages and Tools</h3>
+
+<h4 align="left">Languages</h4>
 <p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h4 align="left">Frameworks, Backend & Databases</h4>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Qt" title="Qt" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" height="40"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faolan-exe&show_icons=true&locale=en&layout=compact" alt="faolan-exe" /></p>
+<h4 align="left">Infrastructure</h4>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/></a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="40" height="40"/></a>
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/></a>
+  <a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="40" height="40"/></a>
+  <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" alt="Proxmox" title="Proxmox" width="40" height="40"/></a>
+  <a href="https://traefik.io/traefik/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" alt="Traefik" title="Traefik" width="40" height="40"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faolan-exe&show_icons=true&locale=en" alt="faolan-exe" /></p>
+<h4 align="left">Hardware & CAD</h4>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="40" height="40"/></a>
+  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" alt="Fusion 360" title="Fusion 360" width="40" height="40"/></a>
+  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" title="KiCad" width="40" height="40"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faolan-exe&" alt="faolan-exe" /></p>
+<h4 align="left">Design</h4>
+<p align="left">
+  <a href="https://www.affinity.studio/" target="_blank" rel="noreferrer"><img src="./assets/affinity.svg" alt="Affinity" title="Affinity" width="40" height="40"/></a>
+  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="GIMP" title="GIMP" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator" title="Illustrator" width="40" height="40"/></a>
+</p>
 
+<h3 align="left">Projects Overview</h3>
+
+**DISCLAIMER:** Most of my projects are unfinished and mainly exist because I wanted to learn a certain topic, language or tool.
+
+- [MCConnect](https://github.com/faolan-exe/MCConnect) (Python) `HIGH`
+  - A stats website for Minecraft servers, version 2.0 of my older mc-stats site, with a reworked backend on Postgres
+  - Supports multiple servers: anyone can connect their own server through a small, lightweight Minecraft plugin
+  - My main project right now
+- [TraiNex Redesign](https://github.com/faolan-exe/trainex-plugin) (JavaScript) `HIGH`
+  - A browser extension (Firefox + Chrome, Manifest V3) that redesigns my university's TraiNex portal
+  - New navigation, a card-based start page and one consistent theme for all subpages
+  - Actively worked on, because I have to look at that portal every day
+- [Protostore](https://github.com/faolan-exe/protostore) (HTML) `MID`
+  - The website for my shop project protostore.eu
+  - Grows alongside the shop itself
+- [flask_secure_core](https://github.com/faolan-exe/flask_secure_core) (Python) `LOW`
+  - A modular Flask library for user login, access control via decorator and an admin UI
+  - Still in development, many features are not fully implemented yet
+  - I pick it up again whenever one of my Flask projects needs it
+- [EspSmartHome](https://github.com/faolan-exe/EspSmartHome) (C++) `LOW`
+  - Smart home experiments on ESP microcontrollers
+  - Paused, might get revived with a custom PCB
+- [Hoffest-Planung](https://github.com/faolan-exe/hoffest_planung) (Python, HTML) `DONE`
+  - A web app for stand registration and the duty roster of a school festival
+  - Flask + PostgreSQL, deployed with Docker Compose
+- [colorlogx](https://github.com/faolan-exe/colorlogx) (Python) `DONE`
+  - A small logging helper with colored console output and daily rotating log files
+- [messageBoxLib](https://github.com/faolan-exe/messageBoxLib) (JavaScript) `DONE`
+  - A small JS library for modern, highly customizable message boxes
+- [Minecraft ALU](https://github.com/faolan-exe/Arithmetic-Logic-Unit-in-Minecraft) (Redstone) `DONE`
+  - An 8-bit arithmetic logic unit built in Minecraft, including a write-up on how it works
+- [WeatherStation-Arduino](https://github.com/faolan-exe/WeatherStation-Arduino) (C++) `DONE`
+  - A small weather station with a Wemos D1 and a Nextion display
+- Small Windows tools (Python) `DONE`
+  - [MP3-Player](https://github.com/faolan-exe/MP3-Player), [QR-Code-generator](https://github.com/faolan-exe/QR-Code-generator), [Weather-App](https://github.com/faolan-exe/Weather-App), [Battery-Protector](https://github.com/faolan-exe/Battery-Protector)
+  - Early projects, they do what they should
+
+<h3 align="left">Stats</h3>
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faolan-exe&show_icons=true&locale=en" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=faolan-exe&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=faolan-exe" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faolan-exe&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="left">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faolan-exe" alt="Profile details" />
+</p>
+
+<p align="left">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faolan-exe" alt="Repos per language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faolan-exe" alt="Most commit language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faolan-exe&utcOffset=1" alt="Productive time" />
+</p>
