@@ -82,9 +82,10 @@
   - I pick it up again whenever one of my Flask projects needs it
 
 - [Name-Badge PCB 2.0](https://wiki.t-auer.com/en/pcb-design/ef-badge/rev1-1_write_up#) (PCB-Design, C++) `HIGH`
+  - New revesion for my Name-Badge PCB Project
   - Adding a lot of features like: NFC, lorawan, reverse charging, oled displays, co-processor, and much more
     
-- [Name-Badge PCB]([https://github.com/faolan-exe/hoffest_planung](https://wiki.t-auer.com/en/pcb-design/ef-badge/rev1-1_write_up)) (PCB-Design, C++) `DONE`
+- [Name-Badge PCB](https://wiki.t-auer.com/en/pcb-design/ef-badge/rev1-1_write_up) (PCB-Design, C++) `DONE`
   - A custom designed and hand assembled PCB with an esp32s3.
   - 50 Leds, E-Paper-Display, battery charging circuit
 
