@@ -109,11 +109,11 @@
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=faolan-exe&show_icons=true&locale=en" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=faolan-exe&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=faolan-exe" alt="GitHub streak" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=faolan-exe" alt="GitHub streak" />
+  
 </p>
 
 <p align="left">
