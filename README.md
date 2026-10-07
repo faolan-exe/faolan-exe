@@ -59,7 +59,7 @@
 
 <h4 align="left">Design</h4>
 <p align="left">
-  <a href="https://www.affinity.studio/" target="_blank" rel="noreferrer"><img src="./assets/affinity.svg" alt="Affinity" title="Affinity" width="40" height="40"/></a>
+  <a href="https://www.affinity.studio/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/affinity-studio-icon.svg" alt="Affinity" title="Affinity" width="40" height="40"/></a>
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="GIMP" title="GIMP" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator" title="Illustrator" width="40" height="40"/></a>
 </p>
