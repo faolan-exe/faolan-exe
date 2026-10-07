@@ -117,10 +117,6 @@
 </p>
 
 <p align="left">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faolan-exe&area=true&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<p align="left">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faolan-exe" alt="Profile details" />
 </p>
 
