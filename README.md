@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [MCConnect](https://github.com/faolan-exe/MCConnect), my [Name-Badge PCB](https://wiki.t-auer.com/en/pcb-design/ef-badge/rev1-1_write_up) Project, a custom linktree and managing my proxmox node which has some services crashing from time to time...
 - 🌱 I’m currently learning **backend development with TypeScript; SQLAlchemy**
 
-- 🎯 I want to learn **PHP, Swift, noSQL and Redis**
+- 🎯 I want to learn **Swift, noSQL, Redis and Laravel**
 
 - 💬 Ask me about **anything**
 
