@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faolan-exe&label=Profile%20views&color=0e75b6&style=flat" alt="faolan-exe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faolan-exe" alt="faolan-exe" /></a> </p>
-
 - 🔭 I’m currently working on [MCConnect](https://github.com/faolan-exe/MCConnect), my [Name-Badge PCB](https://wiki.t-auer.com/en/pcb-design/ef-badge/rev1-1_write_up) Project, a custom linktree and managing my proxmox node which has some services crashing from time to time...
 - 🌱 I’m currently learning **backend development with TypeScript; SQLAlchemy**
 
@@ -109,19 +107,6 @@
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=faolan-exe&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=faolan-exe" alt="GitHub streak" />
-</p>
 
-<p align="left">
-  
-</p>
-
-<p align="left">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faolan-exe" alt="Profile details" />
-</p>
-
-<p align="left">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faolan-exe" alt="Repos per language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faolan-exe" alt="Most commit language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faolan-exe&utcOffset=1" alt="Productive time" />
 </p>
